@@ -216,3 +216,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# VM translator inputs and generated assembly
+*.vm
+*.asm
